@@ -1,4 +1,4 @@
-# Warlus Toggle
+# Walrus Toggle
 
 January 14, 2016
 
