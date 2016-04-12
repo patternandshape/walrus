@@ -1,6 +1,6 @@
 # Walrus Toggle
 
-January 14, 2016
+January 8, 2016
 
 ##### By Molly Curtin &amp; Nic Netzel
 
